@@ -1,9 +1,7 @@
 <h1 align="center">Hi there, I'm Komal Sahu 👋</h1>
 <h3 align="center">Machine Learning Enthusiast | Final-Year CSE Student</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=2F80ED&center=true&vCenter=true&width=500&lines=Focused+on+Machine+Learning;Exploring+Deep+Learning%2C+one+layer+at+a+time;Open+to+ML+Internship+opportunities." alt="Typing SVG" />
-</p>
+<p align="center">Focused on Machine Learning &nbsp;|&nbsp; Learning Deep Learning &nbsp;|&nbsp; Open to ML Internship opportunities</p>
 
 ---
 
@@ -13,7 +11,7 @@ I'm a final-year B.Tech CSE student, graduating in 2027, with a strong focus on 
 
 - 🔭 **Focus Area:** Machine Learning
 - 🌱 **Currently Learning:** Deep Learning
-- 🎓 **Education:** B.Tech in Computer Science & Engineering, Prasad Institute of Technology (Expected 2027)
+- 🎓 **Education:** B.Tech in Computer Science & Engineering (Expected Graduation: 2027)
 - 💼 **Looking For:** Machine Learning Internship opportunities
 - 📫 **Reach Me:** komalsahu58590@gmail.com
 
@@ -54,9 +52,14 @@ I'm a final-year B.Tech CSE student, graduating in 2027, with a strong focus on 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=komalsahu407&show_icons=true&theme=default&hide_border=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=komalsahu407&theme=default&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=komalsahu407&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+  <img src="https://streak-stats.demolab.com/?user=komalsahu407&theme=tokyonight&hide_border=true" height="165" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=komalsahu407&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
 
 ---
 
